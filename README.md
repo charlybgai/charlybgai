@@ -7,14 +7,16 @@
 - Experienced in Python, SQL, and various Machine Learning frameworks like TensorFlow, Keras, and Scikit Learn.
 - Always eager to apply my skills in logical thinking, problem-solving, and effective communication in multidisciplinary environments.
 
+<br>
+
 ### Toolset
 
 <table>
     <tr>
         <td>Programming languages</td>
         <td>
-            <a href=""><img src=""width="40" height="40"/></a>
-            <a href=""><img src=""width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg"width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -29,7 +31,7 @@
         <td>Data visualization</td>
         <td>
             <a href=""><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg"width="40" height="40"/></a>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Seaborn_Logo.png"width="40" height="40"/></a>
+            <a href=""><img src="https://raw.githubusercontent.com/gilbarbara/logos/c8749cfc4be0e67a266be0554282d73d967db910/logos/seaborn-icon.svg"width="40" height="40"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"width="40" height="40"/></a>
         </td>
     </tr>
@@ -41,6 +43,12 @@
         </td>
     </tr>
     <tr>
+        <td>Big data</td>
+        <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
         <td>CAD software</td>
         <td>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/de/6/6b/CATIA_logo.svg"width="40" height="40"/></a>
@@ -48,14 +56,9 @@
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png"width="40" height="40"/></a>
         </td>
     </tr>
-    <tr>
-        <td>Others</td>
-        <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"width="40" height="40"/></a>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/TkInterAr.png"width="40" height="40"/></a>
-        </td>
-    </tr>
 </table>
+
+<br>
 
 ### Skills
 - Logical thinking
@@ -68,6 +71,8 @@
 - Prudence
 - Fairness
 - Leadership
+
+  <br>
 
 ### Contact me:
 
