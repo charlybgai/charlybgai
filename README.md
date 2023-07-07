@@ -7,8 +7,6 @@
 - Experienced in Python, SQL, and various Machine Learning frameworks like TensorFlow, Keras, and Scikit Learn.
 - Always eager to apply my skills in logical thinking, problem-solving, and effective communication in multidisciplinary environments.
 
-<br/>
-
 ### Toolset
 
 
@@ -22,7 +20,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://www.linkedin.com/in/carlosbg98/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20" height="20"/></a>
+            <a href="https://www.linkedin.com/in/carlosbg98/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" width="20" height="20"/></a>
         </td>
         <td>
             <a href="https://twitter.com/djcharlyfive"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="20" height="20"/></a>
