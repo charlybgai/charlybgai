@@ -20,13 +20,13 @@
     </tr>
     <tr>
         <td>
-            <a href="https://www.linkedin.com/in/carlosbg98/"><img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" width="20" height="20"/></a>
+            <a href="https://www.linkedin.com/in/carlosbg98/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20" height="20"/></a>
         </td>
         <td>
             <a href="https://twitter.com/djcharlyfive"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="20" height="20"/></a>
         </td>
         <td>
-            <a href="https://drive.google.com/file/d/1VwWyHyRL2FvX7bR9Onyw2nBpYF537F41/view?usp=sharing">📃</a>
+            <a href="https://drive.google.com/file/d/1VwWyHyRL2FvX7bR9Onyw2nBpYF537F41/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/2666/2666421.png" width="20" height="20"/></a>
         </td>
     </tr>
 </table>
