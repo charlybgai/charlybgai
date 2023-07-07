@@ -9,6 +9,65 @@
 
 ### Toolset
 
+<table>
+    <tr>
+        <td>Programming languages</td>
+        <td>
+            <a href=""><img src=""width="40" height="40"/></a>
+            <a href=""><img src=""width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Machine learning frameworks</td>
+        <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"width="40" height="40"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Data visualization</td>
+        <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg"width="40" height="40"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Seaborn_Logo.png"width="40" height="40"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Data manipulation</td>
+        <td>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"width="40" height="40"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>CAD software</td>
+        <td>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/de/6/6b/CATIA_logo.svg"width="40" height="40"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Autodesk_Logo_A_only.svg/174px-Autodesk_Logo_A_only.svg.png?20191031152945"width="40" height="40"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/en/5/51/Siemens_NX_Logo.png"width="40" height="40"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td>Others</td>
+        <td>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"width="40" height="40"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/TkInterAr.png"width="40" height="40"/></a>
+        </td>
+    </tr>
+</table>
+
+### Skills
+- Logical thinking
+- Problem-solving
+- Effective communication
+- Teamwork
+- Creativity
+- Perseverance
+- Perspective
+- Prudence
+- Fairness
+- Leadership
 
 ### Contact me:
 
@@ -30,15 +89,3 @@
         </td>
     </tr>
 </table>
-
-### Skills
-- Logical thinking
-- Problem-solving
-- Effective communication
-- Teamwork
-- Creativity
-- Perseverance
-- Perspective
-- Prudence
-- Fairness
-- Leadership
