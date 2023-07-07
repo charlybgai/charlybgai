@@ -38,8 +38,8 @@
     <tr>
         <td>Data manipulation</td>
         <td>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"width="40" height="40"/></a>
-            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"width="40" height="40"/></a>
+            <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg"width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
