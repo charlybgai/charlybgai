@@ -22,7 +22,7 @@
     <tr>
         <td>Machine learning frameworks</td>
         <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"width="40" height="40"/></a>
+            <a href=""><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79055559"width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"width="40" height="40"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"width="40" height="40"/></a>
         </td>
