@@ -1,11 +1,13 @@
 # Hello there 👋, I'm Carlos Alberto Bustamante Gaytán
 
-### Mechatronics Engineer & Machine Learning Enthusiast
+### Data Scientist & Machine Learning Enthusiast
 
-- Mechatronics Engineer with a passion for integrating electronics, mechanics, programming, and design.
-- Currently pursuing a Master's degree in Engineering Sciences, specializing in Machine Learning and Data Science.
-- Experienced in Python, SQL, and various Machine Learning frameworks like TensorFlow, Keras, and Scikit Learn.
-- Always eager to apply my skills in logical thinking, problem-solving, and effective communication in multidisciplinary environments.
+- Data Scientist with a strong foundation in integrating data science and machine learning techniques.
+- Recently completed a Master's degree in Engineering Sciences, specializing in Machine Learning and Data Science.
+- Proficient in Python and experienced with various machine learning frameworks including TensorFlow, Keras, Scikit Learn, and PyTorch.
+- Skilled in data analysis, statistical modeling, and data visualization using tools like Matplotlib, Seaborn, and Plotly.
+- Committed to applying my skills in logical thinking, problem-solving, and effective communication in multidisciplinary environments.
+- Always eager to drive innovation and support data-driven decision-making through practical applications of data science and machine learning.
 
 <br>
 
@@ -68,8 +70,6 @@
 - Creativity
 - Perseverance
 - Perspective
-- Prudence
-- Fairness
 - Leadership
 
   <br>
@@ -90,7 +90,7 @@
             <a href="https://twitter.com/djcharlyfive"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="20" height="20"/></a>
         </td>
         <td>
-            <a href="https://drive.google.com/file/d/1VwWyHyRL2FvX7bR9Onyw2nBpYF537F41/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/2666/2666421.png" width="20" height="20"/></a>
+            <a href="https://drive.google.com/file/d/1juza1WyjqajotNEwJ-AHzzLdXk-5sel7/view?usp=sharing"><img src="https://cdn-icons-png.flaticon.com/512/2666/2666421.png" width="20" height="20"/></a>
         </td>
     </tr>
 </table>
