@@ -30,7 +30,7 @@
     <tr>
         <td>Data visualization</td>
         <td>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg"width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg"width="40" height="40"/></a>
             <a href=""><img src="https://raw.githubusercontent.com/gilbarbara/logos/c8749cfc4be0e67a266be0554282d73d967db910/logos/seaborn-icon.svg"width="40" height="40"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"width="40" height="40"/></a>
         </td>
