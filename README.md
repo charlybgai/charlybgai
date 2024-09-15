@@ -1,13 +1,12 @@
 # Hello there 👋, I'm Carlos Alberto Bustamante Gaytán
 
-### Data Scientist & Machine Learning Enthusiast
+### Machine Learning Engineer
 
-- Data Scientist with a strong foundation in integrating data science and machine learning techniques.
-- Completed a Master's degree in Engineering Sciences, specializing in Machine Learning and Data Science.
-- Proficient in Python, SQL, and experienced with machine learning frameworks including TensorFlow, Keras, Scikit Learn, and PyTorch.
-- Skilled in cloud platforms such as AWS and Azure, and in data visualization using tools like Matplotlib, Seaborn, and Plotly.
-- Committed to applying my skills in logical thinking, problem-solving, and effective communication in multidisciplinary environments.
-- Always eager to drive innovation and support data-driven decision-making through practical applications of data science and machine learning.
+- Specialized in machine learning, data science, and statistical modeling.
+- Experienced in Python, SQL, and machine learning frameworks such as TensorFlow, Keras, Scikit Learn, and PyTorch.
+- Skilled in deploying AI models using cloud platforms like AWS and Azure.
+- Proficient in data visualization using tools like Matplotlib, Seaborn, and Plotly.
+- Enthusiastic about driving innovation and supporting data-driven decision-making.
 
 <br>
 
