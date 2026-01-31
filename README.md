@@ -1,11 +1,11 @@
 # Hi there, I'm Carlos 👋
 
-### Machine Learning Engineer
+### Senior Machine Learning Engineer
 
 📍 **Location:** Estado de México, Mexico  
-📧 **Email:** [contact@charlyfive.com](mailto:contact@charlyfive.com)  
-📱 **Phone:** (+52) 55-61942261  
-🔗 **Links:** [Portfolio](https://portfolio.charlyfive.com) | [LinkedIn](https://linkedin.com/in/carlosbg98)
+📧 **Email:** [me@carlosbustamante.dev](mailto:me@carlosbustamante.dev)  
+📱 **Phone:** (+52) 55-31311250
+🔗 **Links:** [Portfolio](https://carlosbustamante.dev) | [LinkedIn](https://linkedin.com/in/charlybgai)
 
 ---
 
@@ -42,11 +42,14 @@
 
 ## 💼 Work Experience
 
+### **Senior Machine Learning Engineer** | Corteza.ai
+*September 2024 - Present (Remote)*
+- Architect and manage scalable AI infrastructure on AWS using Terraform and Kubernetes, overseeing critical services like EKS, ECR, S3, and EC2 Image Builder to ensure production stability.
+
 ### **Machine Learning Engineer** | Corteza.ai
 *September 2024 - Present (Remote)*
-- Lead the end-to-end fine-tuning of an internal LLM, overseeing the full pipeline from codebase/documentation scraping to the creation of datasets and model training.
-- Deploy and manage scalable AI infrastructure on AWS with Terraform and Kubernetes, integrating services like EKS, ECR, S3, Route53, and EC2 Image Builder.
-- Develop and optimize inference scripts for a diverse range of models (object detection, diffusers, LLMs, anomaly detection) and integrate third-party APIs (OpenAI, Anthropic, ElevenLabs) for generative and TTS tasks.
+- Led the end-to-end fine-tuning pipeline for internal LLMs, managing the process from codebase/documentation scraping to dataset creation and model training.
+- Developed optimized inference scripts for diverse models (object detection, diffusers, LLMs) and integrated third-party APIs (OpenAI, Anthropic) for generative tasks.
 
 ### **Adjunct Professor** | Tecnológico de Monterrey
 *January 2024 - June 2024 (Estado de México, México)*
@@ -79,13 +82,13 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=charlybg98&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Carlos's Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=charlybg98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=charlybgai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Carlos's Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=charlybgai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <div align="center">
   <br>
-  <a href="https://portfolio.charlyfive.com">
+  <a href="https://carlosbustamante.dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge" alt="Portfolio">
   </a>
 </div>
