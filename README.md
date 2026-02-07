@@ -71,7 +71,7 @@
 ---
 
 ## 📜 Certifications
-
+- **AWS Certified Generative AI Developer - Professional** (Issued February 2026)
 - **AWS Certified Machine Learning Engineer Associate** (Issued September 2024)
 - **AWS Certified Solutions Architect Associate** (Issued August 2024)
 - **Microsoft Certified: Azure Data Scientist Associate** (Issued July 2024)
