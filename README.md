@@ -56,7 +56,7 @@ Cloud and MLOps Engineer focused on production AI infrastructure, AWS, Kubernete
 
 ## 💼 Work Experience
 
-### **Cloud Engineer** | GlobalLogic
+### **Senior Software Engineer** | GlobalLogic
 *June 2026 - Present (Remote)*
 - Building AWS-based agentic automation infrastructure for software development lifecycle workflows.
 
